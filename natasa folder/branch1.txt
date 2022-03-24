@@ -1,2 +1,1 @@
-branch one file!
-hello!
+Im writing in branch2 file.
