@@ -1,2 +1,4 @@
+
+Im writing in branch2 file.
 This is written in main branch!
 Hello!
